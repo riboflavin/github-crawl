@@ -21,3 +21,7 @@ https:\/\/github.community/.*
 https:\/\/opensource.guide/.*
 https:\/\/github.blog/.*
 ```
+
+### Notes
+
+Make sure to start the crawl at https://github.com/riboflavin/github-crawl, not github.com
