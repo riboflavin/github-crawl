@@ -1,1 +1,7 @@
-# github-orphan-domains
+[archiveprogram.github.com](https://archiveprogram.github.com)   
+[securitylab.github.com](https://archiveprogram.github.com)  
+[securitylab.github.com](https://archiveprogram.github.com)   
+[github.community](https://github.community)  
+[opensource.guide](https://opensource.guide)  
+[github.blog](https://github.blog)  
+[github.com](https://github.com)  
