@@ -10,6 +10,7 @@
 [opensource.guide](https://opensource.guide)  
 [github.blog](https://github.blog)  
 [atom.io](https://atom.io)  
+[try.github.io](http://try.github.io/)  
 
 ## Regex config for github.com  
 
